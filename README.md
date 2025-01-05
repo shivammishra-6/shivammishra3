@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @shivammishra6
+- 👋 Hi, I’m @shivammishra-6
 - 🌱 I’m currently learning Javascript and React
 
 <!---
